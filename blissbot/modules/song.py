@@ -1,5 +1,5 @@
 import os
-import requests
+import asyncio
 import aiohttp
 import youtube_dl
 
